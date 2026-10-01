@@ -52,6 +52,7 @@ Danh sách chưa có khoá ngoại, quan hệ và bản số.
 Màn hình **"Đặt lịch bảo dưỡng"** (header xanh), từ trên xuống:
 
 <img src="./anh.png" alg="ảnh figma mẫu">
+
 ```
 [ Biển số xe ]            ô nhập cao 44px, gợi ý "Nhập biển số"
 [ Tình trạng xe ]         ô nhập cao 24px, gợi ý trống
